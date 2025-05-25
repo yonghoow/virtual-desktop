@@ -1,0 +1,4 @@
+AWS workspaces VDI is so far most expensive VDI is about 400k-500k USD per year
+
+MS Azure VDI is about $200-$300
+

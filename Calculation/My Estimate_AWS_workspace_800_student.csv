@@ -1,0 +1,15 @@
+﻿Estimate summary
+Upfront cost,Monthly cost,Total 12 months cost,Currency
+0,32898.990000000005,394787.88,USD
+,,* Includes upfront cost
+
+
+Detailed Estimate
+Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Status,Configuration summary
+My Estimate,Asia Pacific (Singapore),,WorkSpaces Personal,0,5120,61440.00,USD,,"Product (Enterprise Applications), Operating system (Windows), License (Included), Bundle type (Performance (2 vCPU, 8GB RAM)), Root volume (80 GB), User volume (50 GB), Number of WorkSpaces (80)"
+My Estimate,Asia Pacific (Singapore),,WorkSpaces Pools,0,27778.99,333347.88,USD,,"Product (Enterprise Applications), Bundle (Standard), Operating system (Windows), License (Included), Days in week (5), Average off-peak concurrent users per hour (80), Peak duration (hours) per day (9), Average peak concurrent users per hour (800), Days in weekend (2), Peak duration (hours) per day  (9), Average off-peak concurrent users per hour  (80), Average peak concurrent users per hour  (80)"
+
+
+
+Acknowledgement
+"* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."
