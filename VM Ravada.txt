@@ -1,3 +1,25 @@
 VM Ravada
 Username: yonghoow
 Password: cisco123
+
+Portal:
+http://192.168.56.3:8081/
+username: admin
+password: cisco123
+
+
+Win 10 VM:
+username: admin
+Password: P@ssw0rd
+
+Ubuntu VM:
+username: admin2
+Password: P@ssw0rd
+
+user: 
+username: Maggie Cheung
+Password: cisco123
+
+user:
+username: Jackie Cheung
+Password: cisco123
